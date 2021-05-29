@@ -1,21 +1,21 @@
 // Exemplos
 
 // Exercício 0A
-function soma() {
+//function soma() {
   // escreva seu código aqui
-  const num1 = prompt('Digite o primeiro número')
-  const num2 = prompt('Digite o segundo número')
+  //const num1 = prompt('Digite o primeiro número')
+  //const num2 = prompt('Digite o segundo número')
 
-  console.log(Number(num1) + Number(num2))
-}
+  //console.log(Number(num1) + Number(num2))
+//}
 
 // Exercício 0B
-function imprimeMensagem() {
+//function imprimeMensagem() {
   // escreva seu código aqui
-  const mensagem = prompt('Digite sua mensagem')
+  //const mensagem = prompt('Digite sua mensagem')
 
-  console.log(mensagem)
-}
+  //console.log(mensagem)
+//}
 
 // ---------------------------------------------------
 // Exercícios
@@ -23,6 +23,7 @@ function imprimeMensagem() {
 // Exercício 1
 function calculaAreaRetangulo() {
   // escreva seu código aqui
+
 }
 
 // Exercício 2
